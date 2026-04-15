@@ -103,8 +103,7 @@ DataStructures/
 ├── tests/
 │   └── NewQueueTests.cs
 │
-├── README.md
-└── DataStructures.sln
+└── README.md
 ```
 
 ---
